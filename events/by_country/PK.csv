@@ -1,6 +1,6 @@
 country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
 Pakistan,PK,National,2012-09-17,2016-01-18,,Blocking of Youtube,https://www.washingtonpost.com/business/economy/youtube-blocked-in-pakistan/2012/09/17/30081fa2-00ea-11e2-b257-e1c2b3548a4a_story.html,OONI
-Pakistan,PK,,2014-01-26,,,Hotspot Shield,"https://x.com/AmjadHakro/status/427467185674387456, https://x.com/AmjadHakro/status/427449266533969920, https://x.com/BilalB8/status/427415937818451968, https://x.com/AsadaliYP/status/427397522626465793, https://x.com/AsadSpeaks/status/427441098395369472, https://x.com/BoredMeursault/status/428226563901890560, https://www.facebook.com/ITish.Solutions/posts/10151835533046881",CenAlerttialBlockAlert
+Pakistan,PK,,2014-01-26,,,Hotspot Shield,"https://x.com/AmjadHakro/status/427467185674387456, https://x.com/AmjadHakro/status/427449266533969920, https://x.com/BilalB8/status/427415937818451968, https://x.com/AsadaliYP/status/427397522626465793, https://x.com/AsadSpeaks/status/427441098395369472, https://x.com/BoredMeursault/status/428226563901890560, https://www.facebook.com/ITish.Solutions/posts/10151835533046881",CenAlert
 Pakistan,PK,National,2014-03-05,,,Blocking of DeviantArt website,https://aaopblog.wordpress.com/2014/03/05/deviantart-blocked-in-pakistan/,OONI
 Pakistan,PK,National,2015-09-11,,,Blocking of political forum Siasat.PK,https://propakistani.pk/2015/09/11/siasat-pk-forced-by-the-government-to-shut-down/,OONI
 Pakistan,PK,National,2016-01-12,,,Ordered blocking of 'objectionable' websites,,OONI
@@ -14,11 +14,11 @@ Pakistan,PK,"Rawalpindi, Karachi, Quetta, Gujranwala, Jhang, Faisalabad",2018-11
 Pakistan,PK,,2019-05-13,,Geo-restrictions,"Users connected to PUBG via a Taiwanese VPN in order to claim region-exclusive in-game rewards. Related topics and queries reference ""taiwan vpn"" and ""panda vpn"".","https://www.reddit.com/r/PUBGMobile/comments/bo3mta/content_to_taiwan_via_vpn_collect/, https://www.reddit.com/r/PUBGMobile/comments/bo7vb0/free_taiwan_vpn/, https://www.youtube.com/watch?v=Wcq1XQ-SeTk",Other
 Pakistan,PK,Nationwide,2019-05-31,,Information control,Grindr,https://explorer.ooni.org/chart/mat?probe_cc=PK&since=2019-01-01&until=2019-12-31&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com; https://ooni.org/post/2023-jordan-blocks-grindr/#conclusion; https://explorer.ooni.org/chart/mat?probe_cc=PK&since=2023-01-01&until=2024-04-01&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com,Access Now
 Pakistan,PK,National,2020-05-17,2020-05-18,Unknown,"Twitter, Zoom, Periscope, Twitter, Twitter, Periscope and Zoom",https://www.digitalrightsmonitor.pk/twitter-inaccessibility-for-hours-in-pakistan-left-users-confused/,"Access Now, NetBlocks"
-Pakistan,PK,,2020-07-01,,,PUBG,https://tribune.com.pk/story/2252815/pakistan-temporarily-bans-popular-online-game-pubg,CenAlerttialBlockAlert
-Pakistan,PK,,2020-10-09,,,TikTok,https://techcrunch.com/2020/10/09/tiktok-pakistan-ban/,CenAlerttialBlockAlert
-Pakistan,PK,,2021-03-12,,,TikTok,https://www.cnn.com/2021/03/12/tech/tiktok-pakistan-ban-intl-hnk/index.html,CenAlerttialBlockAlert
+Pakistan,PK,,2020-07-01,,,PUBG,https://tribune.com.pk/story/2252815/pakistan-temporarily-bans-popular-online-game-pubg,CenAlert
+Pakistan,PK,,2020-10-09,,,TikTok,https://techcrunch.com/2020/10/09/tiktok-pakistan-ban/,CenAlert
+Pakistan,PK,,2021-03-12,,,TikTok,https://www.cnn.com/2021/03/12/tech/tiktok-pakistan-ban-intl-hnk/index.html,CenAlert
 Pakistan,PK,National,2021-04-16,2021-04-16,"Protests, protests","Facebook, Twitter, WhatsApp, Telegram, Youtube, Twitter, Facebook, WhatsApp, YouTube, Telegram","https://pulse.internetsociety.org/shutdowns/pakistan, https://www.ft.com/content/df26e1d8-2221-46a1-9223-49df71302d57; https://pbs.twimg.com/media/EzFAX1LVEAUjMNQ.jpg; https://twitter.com/usamakhilji/status/1382957348008824832; https://transparencyreport.google.com/traffic/overview?fraction_traffic=start:1617408000000;end:1619654399999;product:21;region:PK&lu=fraction_traffic","Pulse, Access Now"
-Pakistan,PK,,2021-07-21,,,TikTok,https://www.theregister.com/2021/07/21/pakistan_fourth_tiktok_ban/,CenAlerttialBlockAlert
+Pakistan,PK,,2021-07-21,,,TikTok,https://www.theregister.com/2021/07/21/pakistan_fourth_tiktok_ban/,CenAlert
 Pakistan,PK,,2022-05-01,,Latent Circumvention Interest,"Ramadan ended, and several simultaneously trending search terms were related to pornography. During Ramadan, adults observing are expected to abstain from sexual activity, including pornography. Previous studies of Google Trends data show that pornography-related searches decrease at the start of Ramadan and rise again around Eid al-Fitr. Because pornography websites are often blocked, accessing them after Ramadan may require VPNs.","https://www.tandfonline.com/doi/full/10.1080/26929953.2024.2369231, https://www.nature.com/articles/s41598-017-18262-5, https://tribune.com.pk/story/2509317/daily-vpn-attempts-to-access-porn-in-pakistan-exceed-20m-pta",Other
 Pakistan,PK,National,2022-08-21,2022-08-21,,YouTube,,NetBlocks
 Pakistan,PK,National,2022-09-06,2022-09-06,,YouTube,,NetBlocks
@@ -32,9 +32,9 @@ Pakistan,PK,,2024-01-07,,,"Social media, including X/Twitter, Facebook, Instagra
 Pakistan,PK,,2024-01-20,,,"Social media, including X/Twitter, Facebook, Instagram and YouTube",https://mastodon.social/@netblocks/111788701854448432,NetBlocks
 Pakistan,PK,National,2024-01-26,,,PTI political party sites and investigative news platform,,OONI
 Pakistan,PK,,2024-07-16,,,Facebook,"https://mastodon.social/@netblocks/112801231917936155, https://propakistani.pk/2024/07/17/facebook-gets-disrupted-in-pakistan-amid-ashura-without-govt-announcements/",NetBlocks
-Pakistan,PK,,2024-07-20,,,WhatsApp,https://www.dawn.com/news/1847023,CenAlerttialBlockAlert
-Pakistan,PK,,2024-08-09,,,Social media slowdown,https://www.pakistantoday.com.pk/2024/08/10/internet-services-across-pakistan-face-disruption-for-second-consecutive-day-no-one-knows-why/,CenAlerttialBlockAlert
-Pakistan,PK,,2024-10-04,,,Internet disruptions,https://www.pakistantoday.com.pk/2024/10/04/internet-service-social-media-apps-down-ahead-of-pti-protest/,CenAlerttialBlockAlert
-Pakistan,PK,,2024-10-17,,,WhatsApp,https://www.dawn.com/news/1865902,CenAlerttialBlockAlert
+Pakistan,PK,,2024-07-20,,,WhatsApp,https://www.dawn.com/news/1847023,CenAlert
+Pakistan,PK,,2024-08-09,,,Social media slowdown,https://www.pakistantoday.com.pk/2024/08/10/internet-services-across-pakistan-face-disruption-for-second-consecutive-day-no-one-knows-why/,CenAlert
+Pakistan,PK,,2024-10-04,,,Internet disruptions,https://www.pakistantoday.com.pk/2024/10/04/internet-service-social-media-apps-down-ahead-of-pti-protest/,CenAlert
+Pakistan,PK,,2024-10-17,,,WhatsApp,https://www.dawn.com/news/1865902,CenAlert
 Pakistan,PK,,2024-11-23,,,WhatsApp,https://mastodon.social/@netblocks/113534071297392398,NetBlocks
 Pakistan,PK,,2024-12-01,,Government Threat of Censorship,"Pakistan announced a ban on unregistered VPNs that was scheduled to take effect on December 1, allowing only registered commercial VPNs in order to prevent circumvention of website blocking. The government ultimately reversed the decision on December 1, citing a lack of legal grounds.","https://www.dawn.com/news/1875860/pta-decides-not-to-ban-vpns-over-lack-of-legal-grounds, https://www.dawn.com/news/1873356",Other

@@ -1,4 +1,4 @@
 country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
 Ecuador,EC,National,2019-10-06,2019-10-07,"Protests, protests","Facebook, Twitter, WhatsApp, Social media backend image and CDN servers (Facebook and WhatsApp)","https://pulse.internetsociety.org/shutdowns/shutdown-182, https://advox.globalvoices.org/2019/10/11/netizen-report-turkey-iraq-and-ecuador-face-network-shutdowns-amid-conflict-public-protests/, https://netblocks.org/reports/evidence-of-social-media-disruptions-in-ecuador-as-crisis-deepens-oy9RN483","Pulse, Access Now, NetBlocks"
 Ecuador,EC,Regional,2020-06-11,2020-06-11,Unknown,Twitter,https://twitter.com/valeriabet/status/1270871388136648704,Access Now
-Ecuador,EC,,2024-08-03,,,Pirated Pro League Streams,https://www.elcomercio.com/deportes/futbol/liga-pro-pirateria-bloqueo-magistv/,CenAlerttialBlockAlert
+Ecuador,EC,,2024-08-03,,,Pirated Pro League Streams,https://www.elcomercio.com/deportes/futbol/liga-pro-pirateria-bloqueo-magistv/,CenAlert

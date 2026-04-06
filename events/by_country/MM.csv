@@ -4,4 +4,4 @@ Myanmar,MM,National,2020-03-23,,,"Blocking ""fake news"" websites",,OONI
 Myanmar,MM,National,2021-02-02,,"government_action, Political instability","Facebook, Twitter, Instagram, Facebook, Instagram, Messenger and some WhatsApp servers (on state-run ISP)","https://pulse.internetsociety.org/shutdowns/limited-disruptions-to-social-networking-sites, https://ooni.org/post/2021-myanmar-internet-blocks-and-outages/#methods","Pulse, OONI, Access Now, NetBlocks"
 Myanmar,MM,National,2021-02-18,,,Blocking wikipedia,,"NetBlocks, OONI"
 Myanmar,MM,Nationwde,2021-05-25,,Information control,"Facebook, Twitter",https://asia.nikkei.com/Spotlight/Myanmar-Crisis/Myanmar-allows-Tinder-but-axes-dissent-havens-Twitter-Facebook; https://www.frontiermyanmar.net/en/whitelisted-internet-takes-myanmar-back-to-a-dark-age/,Access Now
-Myanmar,MM,,2024-05-30,,,VPNs,https://github.com/net4people/bbs/issues/369,CenAlerttialBlockAlert
+Myanmar,MM,,2024-05-30,,,VPNs,https://github.com/net4people/bbs/issues/369,CenAlert

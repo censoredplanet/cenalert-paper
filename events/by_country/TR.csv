@@ -1,20 +1,20 @@
 country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
-Türkiye,TR,,2013-06-01,,,"Facebook, Twitter","https://techcrunch.com/2013/06/01/as-anti-government-protests-erupt-in-istanbul-facebook-and-twitter-appear-suddenly-throttled/, https://www.reddit.com/r/europe/comments/1fgnr7/twitter_and_facebook_are_currently_banned_in/",CenAlerttialBlockAlert
+Türkiye,TR,,2013-06-01,,,"Facebook, Twitter","https://techcrunch.com/2013/06/01/as-anti-government-protests-erupt-in-istanbul-facebook-and-twitter-appear-suddenly-throttled/, https://www.reddit.com/r/europe/comments/1fgnr7/twitter_and_facebook_are_currently_banned_in/",CenAlert
 Türkiye,TR,Nationwide,2013-09-11,,Information control,Grindr,https://explorer.ooni.org/chart/mat?probe_cc=TR&since=2023-01-01&until=2023-12-31&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com; https://ooni.org/post/2023-jordan-blocks-grindr/#conclusion; https://kaosgl.org/en/single-news/grindr-ban-in-turkey-taken-to-constitutional-court,Access Now
-Türkiye,TR,,2014-03-20,,,Twitter,https://www.cnn.com/2014/03/20/world/europe/turkey-twitter-blackout/index.html,CenAlerttialBlockAlert
-Türkiye,TR,,2015-04-06,,,"Facebook, Twitter, YouTube",https://globalvoices.org/2015/04/06/turkey-blocks-twitter-youtube-scores-of-websites-after-prosecutors-killing/,CenAlerttialBlockAlert
-Türkiye,TR,,2015-07-22,,,Twitter,https://www.dw.com/en/turkey-blocks-twitter-following-suicide-bomb-attacks/a-18599198,CenAlerttialBlockAlert
-Türkiye,TR,,2015-07-25,,,"96 pro-Kurdish and left wing news websites, including Özgür Gündem",https://www.hurriyetdailynews.com/turkish-court-approves-blocking-of-kurdish-websites-86006,CenAlerttialBlockAlert
+Türkiye,TR,,2014-03-20,,,Twitter,https://www.cnn.com/2014/03/20/world/europe/turkey-twitter-blackout/index.html,CenAlert
+Türkiye,TR,,2015-04-06,,,"Facebook, Twitter, YouTube",https://globalvoices.org/2015/04/06/turkey-blocks-twitter-youtube-scores-of-websites-after-prosecutors-killing/,CenAlert
+Türkiye,TR,,2015-07-22,,,Twitter,https://www.dw.com/en/turkey-blocks-twitter-following-suicide-bomb-attacks/a-18599198,CenAlert
+Türkiye,TR,,2015-07-25,,,"96 pro-Kurdish and left wing news websites, including Özgür Gündem",https://www.hurriyetdailynews.com/turkish-court-approves-blocking-of-kurdish-websites-86006,CenAlert
 Türkiye,TR,,2015-09-08,,Violence,"Twitter was thought to be blocked in Türkiye in order to suppress the circulation of images showing Turkish nationalists committing violence against Kurdish citizens. However, Twitter disputed claims that their platform had been blocked.",https://www.ibtimes.com/twitter-still-accessible-turkey-despite-user-reports-block-company-says-2087955,Other
-Türkiye,TR,,2015-10-10,,,Twitter,https://globalvoices.org/2015/10/10/at-least-86-killed-in-explosions-at-ankara-peace-rally/,CenAlerttialBlockAlert
-Türkiye,TR,,2016-02-17,,,"Twitter, Facebook throttling",https://web.archive.org/web/20241109203237/https://d8news.com/twitter-facebook-restricted-turkey-following-ankara-bombings-683,CenAlerttialBlockAlert
-Türkiye,TR,,2016-03-13,,,"Social media, including Facebook and Twitter",https://www.hurriyetdailynews.com/access-to-social-media-cut-in-turkey-after-ankara-terror-attack-96406,CenAlerttialBlockAlert
-Türkiye,TR,,2016-03-19,,,Twitter and Facebook,https://web.archive.org/web/20240914034456/https://d8news.com/after-taksim-terror-attack-turkey-denied-citizens-right-seek-information-970,CenAlerttialBlockAlert
+Türkiye,TR,,2015-10-10,,,Twitter,https://globalvoices.org/2015/10/10/at-least-86-killed-in-explosions-at-ankara-peace-rally/,CenAlert
+Türkiye,TR,,2016-02-17,,,"Twitter, Facebook throttling",https://web.archive.org/web/20241109203237/https://d8news.com/twitter-facebook-restricted-turkey-following-ankara-bombings-683,CenAlert
+Türkiye,TR,,2016-03-13,,,"Social media, including Facebook and Twitter",https://www.hurriyetdailynews.com/access-to-social-media-cut-in-turkey-after-ankara-terror-attack-96406,CenAlert
+Türkiye,TR,,2016-03-19,,,Twitter and Facebook,https://web.archive.org/web/20240914034456/https://d8news.com/after-taksim-terror-attack-turkey-denied-citizens-right-seek-information-970,CenAlert
 Türkiye,TR,nationwide,2016-06-28,2016-06-29,Political instability,"Facebook, Twitter, YouTube",http://www.reuters.com/article/us-mideast-crisis-socialmedia-idUSKCN0ZM2O3,Access Now
 Türkiye,TR,nationwide,2016-07-15,,Political instability,"Social network (Twitter + Facebook) blocks/throttling following attempted coup, Facebook, Twitter, YouTube",https://www.theatlantic.com/technology/archive/2016/07/social-media-goes-dark-during-chaos-in-turkey/491609/,"OONI, Access Now"
 Türkiye,TR,National,2016-08-25,2016-08-26,,"Facebook, Twitter, YouTube, Vimeo and Instagram",,NetBlocks
 Türkiye,TR,Nationwide,2016-10-08,2016-10-10,Information control,"Cloud services including Dropbox, Microsoft OneDrive, and Google Drive.",http://www.ibtimes.co.uk/turkey-blocks-google-microsoft-dropbox-services-suppress-mass-email-leaks-1585655,Access Now
-Türkiye,TR,,2016-11-04,,,"Facebook, Twitter and YouTube, WhatsApp, Skype, Instagram",https://turkeyblocks.org/2016/11/04/social-media-shutdown-turkey/,CenAlerttialBlockAlert
+Türkiye,TR,,2016-11-04,,,"Facebook, Twitter and YouTube, WhatsApp, Skype, Instagram",https://turkeyblocks.org/2016/11/04/social-media-shutdown-turkey/,CenAlert
 Türkiye,TR,nationwide,2016-12-19,2016-12-20,Unknown,Social media,https://turkeyblocks.org/2016/12/19/social-media-slowdown-affecting-many-users-detected-turkey/,Access Now
 Türkiye,TR,National,2016-12-22,,,"Twitter, Facebook and YouTube",,NetBlocks
 Türkiye,TR,National,2017-04-29,2020-01-15,,Wikipedia,,NetBlocks
@@ -26,8 +26,8 @@ Türkiye,TR,National,2019-10-15,2019-10-15,"Unknown, government_action",Twitter,
 Türkiye,TR,National,2020-02-27,2022-02-28,Other,"Twitter, Facebook, Instagram, YouTube, WhatsApp, Facebook, Twitter, Instagram, Facebook Messenger",https://www.crisisgroup.org/europe-central-asia/western-europemediterranean/turkey/deadly-clashes-syrias-idlib-show-limits-turkeys-options,"Access Now, NetBlocks"
 Türkiye,TR,National,2022-11-13,2022-11-13,Information control,"Facebook, Twitter, Instagram, YouTube, Twitter, Instagram, Facebook, YouTube, and some Telegram servers",https://globalvoices.org/2022/11/13/turkey-throttles-internet-access-following-deadly-explosion-in-istanbul/; https://twitter.com/OpenObservatory/status/1591871076677701635,"Access Now, NetBlocks"
 Türkiye,TR,Nationwide,2023-02-08,2023-02-09,Information control,"Blocking/throttling Twitter in aftermath of earthquake, Twitter",https://ooni.org/post/2023-turkey-throttling-blocking-twitter/,"OONI, Access Now, NetBlocks"
-Türkiye,TR,,2023-05-12,,,Twitter,https://dig.watch/updates/twitter-restricted-access-to-some-tweets-before-turkeys-election,CenAlerttialBlockAlert
-Türkiye,TR,,2024-02-22,,,Twitch,https://www.turkishminute.com/2024/02/24/turkey-ban-access-streaming-platform-twitch/,CenAlerttialBlockAlert
+Türkiye,TR,,2023-05-12,,,Twitter,https://dig.watch/updates/twitter-restricted-access-to-some-tweets-before-turkeys-election,CenAlert
+Türkiye,TR,,2024-02-22,,,Twitch,https://www.turkishminute.com/2024/02/24/turkey-ban-access-streaming-platform-twitch/,CenAlert
 Türkiye,TR,Kayseri,2024-07-01,,,Social media,https://mastodon.social/@netblocks/112713010917351175,NetBlocks
 Türkiye,TR,National,2024-08-02,2024-08-10,,Instagram,,OONI
 Türkiye,TR,National,2024-10-08,,,Discord,,OONI

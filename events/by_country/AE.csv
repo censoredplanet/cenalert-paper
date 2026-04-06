@@ -1,3 +1,3 @@
 country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
 United Arab Emirates,AE,Nationwide,2016-10-28,,Information control,Grindr,https://explorer.ooni.org/chart/mat?probe_cc=AE&since=2016-01-01&until=2016-12-31&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com; https://ooni.org/post/2023-jordan-blocks-grindr/#conclusion; https://explorer.ooni.org/chart/mat?probe_cc=AE&since=2023-01-01&until=2024-04-01&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com,Access Now
-United Arab Emirates,AE,,2017-12-28,,,Skype,https://dubaiviral.com/skype-whatsapp-blocked-uae/,CenAlerttialBlockAlert
+United Arab Emirates,AE,,2017-12-28,,,Skype,https://dubaiviral.com/skype-whatsapp-blocked-uae/,CenAlert
