@@ -1,0 +1,2 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Mauritius,MU,National,2024-11-01,2024-11-02,elections,"Facebook, Instagram, TikTok, YouTube, Twitter/X, and Linkedin",https://pulse.internetsociety.org/shutdowns/mauritius-orders-blocking-of-social-media-sites-in-advance-of-election,"OONI, Pulse"

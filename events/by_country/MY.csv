@@ -1,0 +1,5 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Malaysia,MY,National,2016-02-16,,,Blocking BBC article,,OONI
+Malaysia,MY,,2020-03-16,,COVID-19,"COVID-19 restrictions entered into effect. The pandemic raised global demand for VPNs, both for remote work and for accessing geo-restricted content.",https://www.top10vpn.com/research/vpn-demand-statistics-2020/#vpn-demand-by-region,Other
+Malaysia,MY,National,2023-06-28,,,MalaysiaNow and of a website which belongs to a former Malaysian Member of Parliament,,OONI
+Malaysia,MY,National,2024-04-17,,,Grindr,,OONI

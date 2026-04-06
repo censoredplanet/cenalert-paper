@@ -1,0 +1,5 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Cuba,CU,National,2019-02-24,,,Blocking independent media,,OONI
+Cuba,CU,National,2020-11-27,2020-11-30,Protests,"Twitter, WhatsApp, YouTube, and some Google and Facebook servers, Facebook, Twitter, Telegram, Youtube",https://www.reuters.com/article/us-cuba-politics-opposition/cuban-government-backtracks-on-deal-with-protesters-idUSKBN28A00J,"Access Now, NetBlocks"
+Cuba,CU,National,2020-12-10,,,"Facebook, Twitter",,NetBlocks
+Cuba,CU,Most of the country,2021-07-11,2021-07-18,Protests,"Blocking Signal (along with other social media amid protests), Facebook, WhatsApp, Instagram, Telegram, WhatsApp, Facebook, Instagram, some Telegram servers, YouTube",https://www.accessnow.org/patria-y-vida-cuba/; https://twitter.com/DougMadory/status/1414327987525275659; https://twitter.com/OpenObservatory/status/1414622433156476930,"OONI, Access Now, NetBlocks"

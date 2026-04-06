@@ -1,0 +1,8 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Tanzania,TZ,National,2020-10-26,2020-11-06,elections,"Twitter, WhatsApp, backend servers for Instagram and some Google services including GMail and Translate, Blocking social media (WhatsApp, Facebook Messenger, and Telegram, Twitter, Instagram, TikTok, YouTube) and Tor during elections",https://pulse.internetsociety.org/shutdowns/internet-restrictions-during-election; https://twitter.com/Policy/status/1321106129208922113; https://www.accessnow.org/tanzania-votes-government-forces-telcos-escalate-censorship/,"Access Now, Pulse, NetBlocks, OONI"
+Tanzania,TZ,National,2023-02-07,,,Blocking of thetrevorproject.org,,OONI
+Tanzania,TZ,Nationwide,2023-03-21,,Information control,Grindr,https://explorer.ooni.org/findings/203466718601,"OONI, Access Now"
+Tanzania,TZ,National,2023-04-19,,,Blocking of eharmony.com,,OONI
+Tanzania,TZ,National,2023-05-05,,,Blocking of tinder.com,,OONI
+Tanzania,TZ,Nationwide,2023-08-13,,Information control,"Clubhouse, Blocking of social network app Clubhouse",https://explorer.ooni.org/findings/185407756401,"OONI, Access Now"
+Tanzania,TZ,Regional,2024-08-30,2024-08-31,,Twitter/X,,OONI

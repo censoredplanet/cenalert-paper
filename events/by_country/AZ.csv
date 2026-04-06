@@ -1,0 +1,9 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Azerbaijan,AZ,National,2017-05-12,,,Blocking of rferl.org,https://www.rferl.org/a/azerbaijan-rferl-service-website-court-orders-blocked/28482679.html,OONI
+Azerbaijan,AZ,National,2017-09-05,,,Blocking of occrp.org,https://www.meydan.tv/en/article/occrp-blocked-in-azerbaijan/,OONI
+Azerbaijan,AZ,Regional,2020-01-03,2020-01-15,Protests,,,Access Now
+Azerbaijan,AZ,National,2020-09-27,2020-11-20,,"Facebook, WhatsApp, YouTube, Instagram, TikTok, LinkedIn and Twitter, Zoom, Skype and Messenger, Blocking of social media websites during Nagorno-Karabakh war",,"OONI, NetBlocks"
+Azerbaijan,AZ,Nationwide,2022-09-13,2022-11-06,Political instability,"TikTok, Blocking TikTok","https://ooni.org/post/2022-azerbaijan-and-armenia-blocks-tiktok/, https://dtx.gov.az/az/news/1715.html","OONI, Access Now, NetBlocks"
+Azerbaijan,AZ,Regional,2022-12-25,,,Blocking of the Guardian on some ISPs,,OONI
+Azerbaijan,AZ,Nationwide,2023-09-19,2023-10-31,Other,"TikTok, TikTok and the Google Play Store",https://explorer.ooni.org/findings/67768606801,"OONI, Access Now"
+Azerbaijan,AZ,National,2024-10-08,2024-10-10,,Twitter/X,,OONI

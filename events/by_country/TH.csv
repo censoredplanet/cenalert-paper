@@ -1,0 +1,3 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Thailand,TH,National,2014-05-28,2014-05-28,,Facebook blocked,,OONI
+Thailand,TH,National,2020-10-16,2021-04-22,,Blocking of Change.org,https://www.bbc.com/news/world-asia-54566767,OONI

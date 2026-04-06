@@ -1,0 +1,3 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Gabon,GA,nationwide,2016-08-28,2016-09-29,Protests,,https://www.gabonactu.com/2016/08/rupture-de-linternet-suite-a-panne-gabon-telecom-presente-excuses/ http://money.cnn.com/2016/09/16/technology/internet-censorship-blackouts-gabon/,Access Now
+Gabon,GA,National,2019-01-07,2019-01-08,Political Instability,"Facebook, Twitter, WhatsApp","https://ooni.torproject.org/post/gabon-internet-disruption/, https://cpj.org/2019/01/gabon-shuts-down-the-internet-and-broadcasting-ser.php",Access Now

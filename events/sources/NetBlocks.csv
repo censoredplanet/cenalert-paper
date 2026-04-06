@@ -1,0 +1,142 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Belarus,BY,National,2020-08-09,2020-08-12,,"Shutdowns; keyword blocking social media, search engines and news sites",,NetBlocks
+Iraq,IQ,Northern Iraq,2018-07-14,,,"Multiple shutdowns in population centers, Facebook and Twitter blocked",,NetBlocks
+Pakistan,PK,National,2023-05-09,,,"Twitter, Facebook, YouTube, mobile shutdowns",,NetBlocks
+Zimbabwe,ZW,National,2019-01-15,,protests,"Shutdowns + blocking of Facebook, Twitter, WhatsApp, Pinterest, Tinder, etc",,NetBlocks
+Algeria,DZ,National,2019-06-15,2019-06-16,,Social media restrictions on Algeria Telecom,,NetBlocks
+Algeria,DZ,National,2019-06-16,2019-06-16,exams,"Facebook, Twitter, Instagram, Tumblr, Pinterest, LinkedIn, Tinder, Russian social networks VKontakte and Odnoklassniki as well as servers for messaging apps WhatsApp, Telegram, Skype, Viber and Line",,NetBlocks
+Algeria,DZ,National,2019-06-17,,exams,Social media,,NetBlocks
+Algeria,DZ,National,2019-08-08,2019-08-08,,"YouTube as well as Android mobile platform backends, Google Translate, Google Hangouts and Play Store",,NetBlocks
+Algeria,DZ,National,2020-09-13,,,Social media and messaging services,,NetBlocks
+Armenia,AM,Regional,2022-09-14,,,TikTok,,NetBlocks
+Azerbaijan,AZ,National,2020-09-27,,,"Facebook, WhatsApp, YouTube, Instagram, TikTok, LinkedIn and Twitter, Zoom, Skype and Messenger",,NetBlocks
+Azerbaijan,AZ,National,2022-09-14,,,TikTok,,NetBlocks
+Bangladesh,BD,National,2021-03-26,2021-03-29,,Facebook and Facebook Messenger,,NetBlocks
+Belarus,BY,National,2020-08-13,,,"Filtering exact domains of local news platforms, opposition election websites, webmail and VPN services",,NetBlocks
+Benin,BJ,National,2019-04-27,2019-04-29,elections,"Facebook, Twitter, Instagram and messaging apps WhatsApp, Telegram and Viber + Shutdowns",,NetBlocks
+Brazil,BR,National,2023-04-27,,,Telegram,,NetBlocks
+Burkina Faso,BF,National,2022-01-11,,,"Facebook, WhatsApp",,NetBlocks
+Burundi,BI,National,2020-05-20,2020-05-21,,"Twitter, Facebook, Instagram, Telegram and WhatsApp",,NetBlocks
+Cameroon,CM,National,2018-10-21,,elections,"Facebook, WhatsApp",,NetBlocks
+Chad,TD,National,2020-07-22,,,WhatsApp,,NetBlocks
+Cuba,CU,National,2020-11-27,2020-11-30,,"Twitter, WhatsApp, YouTube, and some Google and Facebook servers",,NetBlocks
+Cuba,CU,National,2020-12-10,,,"Facebook, Twitter",,NetBlocks
+Cuba,CU,National,2021-07-12,2021-07-18,,"WhatsApp, Facebook, Instagram, some Telegram servers, YouTube",,NetBlocks
+Ecuador,EC,National,2019-10-06,2019-10-07,,Social media backend image and CDN servers (Facebook and WhatsApp),,NetBlocks
+Egypt,EG,National,2019-04-09,,,"Voiceonline, an opposition campaign petition website",,NetBlocks
+Egypt,EG,National,2019-04-15,,,"Blocking 34,000 domains hosted at on a shared IP address",,NetBlocks
+Egypt,EG,National,2019-04-18,2019-04-18,,Bitly,,NetBlocks
+Egypt,EG,National,2019-09-22,,,"Facebook Messenger, Facebook image CDN servers, BBC News, Twitter, Skype",,NetBlocks
+Ethiopia,ET,National,2019-06-10,2019-06-17,,Blocking WhatsApp,,NetBlocks
+Ethiopia,ET,National,2019-06-10,,,Blocking Telegram,,NetBlocks
+Ethiopia,ET,National,2019-06-27,,,"Facebook, Instagram, Messenger, WhatsApp, some VPN sites, Telegram, YouTube",,NetBlocks
+Ethiopia,ET,National,2021-11-08,2021-11-12,,"Facebook, Messenger, some WhatsApp and Telegram servers",,NetBlocks
+Ethiopia,ET,National,2023-02-09,,,"Facebook, Telegram, TikTok",,NetBlocks
+Ethiopia,ET,National,2023-02-10,,,YouTube,,NetBlocks
+Guinea,GN,National,2020-03-21,2020-03-23,,"Twitter, Facebook, Instagram, WhatApp",,NetBlocks
+Guinea,GN,National,2023-05-17,,,"Facebook, WhatsApp, Instagram, TikTok",,NetBlocks
+Indonesia,ID,National,2019-05-22,2019-05-25,,"WhatsApp, Facebook, Instagram, Telegram",,NetBlocks
+Indonesia,ID,National,2022-07-29,,,"Payment Services and Gaming Platforms (e.g., PayPal, Steam)",,NetBlocks
+Iran,IR,National,2017-12-31,,,"Telegram, etc",,NetBlocks
+Iran,IR,National,2020-03-02,2020-03-03,,Farsi language Wikipedia,,NetBlocks
+Iran,IR,National,2022-09-21,,,"Instagram, WhatsApp, LinkedIn, Skype",,NetBlocks
+Iraq,IQ,National,2019-10-02,2019-11-21,,"Facebook, Twitter, WhatsApp, Instagram and other social and messaging apps",,NetBlocks
+Iraq,IQ,National,2023-08-06,,,Telegram,,NetBlocks
+Jordan,JO,National,2020-07-29,2020-07-29,,Facebook Live,,NetBlocks
+Jordan,JO,National,2020-08-03,2020-08-03,,Facebook Live,,NetBlocks
+Jordan,JO,National,2020-08-04,2020-08-04,,Facebook Live,,NetBlocks
+Jordan,JO,National,2020-08-05,2020-08-05,,Facebook Live,,NetBlocks
+Jordan,JO,National,2020-08-09,,,Facebook Live,,NetBlocks
+Jordan,JO,National,2021-03-15,,,Facebook Live,,NetBlocks
+Jordan,JO,National,2022-12-16,,,TikTok,,NetBlocks
+Kazakhstan,KZ,National,2019-05-09,2019-05-09,,"Facebook, Instagram and YouTube as well as news and campaign websites",,NetBlocks
+Kazakhstan,KZ,National,2019-06-09,,,"Streaming services, Periscope, VPN services",,NetBlocks
+Kazakhstan,KZ,National,2019-06-11,,,"WhatsApp, Facebook and Instagram",,NetBlocks
+Liberia,LR,National,2019-06-07,,,"Twitter, Facebook, Instagram, Snapchat and WhatsApp",,NetBlocks
+Mali,ML,Regional,2018-08-11,,elections,Social media and messaging services,,NetBlocks
+Mali,ML,Bamako,2020-07-10,2020-07-15,,"Twitter, Facebook, Facebook Messenger, WhatsApp",,NetBlocks
+Myanmar,MM,National,2021-02-03,,,"Facebook, Instagram, Messenger and some WhatsApp servers (on state-run ISP)",,NetBlocks
+Myanmar,MM,National,2021-02-04,,,Facebook (on most ISPs),,NetBlocks
+Myanmar,MM,National,2021-02-05,,,Twitter,,NetBlocks
+Myanmar,MM,National,2021-02-18,,,Wikipedia,,NetBlocks
+Nigeria,NG,National,2021-06-05,2022-01-13,,Twitter,,NetBlocks
+Pakistan,PK,National,2017-11-25,,,"Facebook, Twitter, YouTube",,NetBlocks
+Pakistan,PK,National,2018-06-03,,,Awami Workers Party website,,NetBlocks
+Pakistan,PK,National,2018-07-12,,,Slate Magazine,,NetBlocks
+Pakistan,PK,National,2020-05-17,2020-05-17,,"Twitter, Periscope and Zoom",,NetBlocks
+Pakistan,PK,National,2022-08-21,2022-08-21,,YouTube,,NetBlocks
+Pakistan,PK,National,2022-09-06,2022-09-06,,YouTube,,NetBlocks
+Pakistan,PK,National,2023-02-03,2023-02-06,,Wikipedia,,NetBlocks
+Russia,RU,National,2021-09-17,,,Takedown of Navalny app by Apple and Google Play,,NetBlocks
+Russia,RU,National,2022-02-26,,,Twitter,,NetBlocks
+Russia,RU,National,2022-02-27,,,Facebook,,NetBlocks
+Russia,RU,National,2022-03-03,,,International news websites,,NetBlocks
+Russia,RU,National,2022-03-11,,,Eurasia website of Amnesty International,,NetBlocks
+Russia,RU,National,2022-03-13,,,Instagram,,NetBlocks
+Russia,RU,National,2022-03-16,,,Bellingcat (independent news),,NetBlocks
+Russia,RU,National,2022-03-21,,,Euronews,,NetBlocks
+Senegal,SN,National,2021-03-05,2021-03-05,,"Facebook, YouTube, WhatsApp, and some Telegram servers",,NetBlocks
+Senegal,SN,National,2023-06-01,,,"Facebook, Twitter, WhatsApp, Instagram, YouTube, Telegram",,NetBlocks
+Senegal,SN,National,2023-08-02,,,TikTok,,NetBlocks
+Sri Lanka,LK,National,2018-03-07,2018-03-15,,"Facebook, WhatsApp, Viber",,NetBlocks
+Sri Lanka,LK,National,2019-04-21,2019-04-30,,"Facebook, WhatsApp, Instagram, YouTube, Viber, Snapchat and Facebook Messenger",,NetBlocks
+Sri Lanka,LK,National,2019-04-22,2019-04-30,,Website of an unamed VPN service,,NetBlocks
+Sri Lanka,LK,National,2019-05-05,2019-05-06,,"Facebook, WhatsApp, Instagram, YouTube, Viber, Snapchat and Facebook Messenger",,NetBlocks
+Sri Lanka,LK,National,2019-05-13,2019-05-17,,"Facebook, WhatsApp, Instagram, YouTube, Viber, Snapchat and Facebook Messenger, Twitter",,NetBlocks
+Sri Lanka,LK,National,2022-04-03,2022-04-03,,"Facebook, Twitter, WhatsApp, Viber and YouTube",,NetBlocks
+Sudan,SD,National,2018-12-21,2019-02-26,protests,"Facebook, Twitter, Instagram, WhatsApp",,NetBlocks
+Sudan,SD,Khartoum,2019-04-07,2019-04-11,protests,"Twitter, Periscope, Facebook, Instagram, WhatsApp and Telegram + power outage",,NetBlocks
+Sudan,SD,National,2021-10-25,2021-11-24,,Social media,,NetBlocks
+Suriname,SR,National,2023-02-17,2023-02-18,,"Facebook, Instagram, WhatsApp, Messenger",,NetBlocks
+Tanzania,TZ,National,2020-10-27,,,"Twitter, WhatsApp, backend servers for Instagram and some Google services including GMail and Translate",,NetBlocks
+Togo,TG,National,2020-02-22,2022-02-23,elections,"Facebook, Messenger, WhatsApp",,NetBlocks
+Türkiye,TR,National,2016-08-25,2016-08-26,,"Facebook, Twitter, YouTube, Vimeo and Instagram",,NetBlocks
+Türkiye,TR,National,2016-12-22,,,"Twitter, Facebook and YouTube",,NetBlocks
+Türkiye,TR,"Gaziantep, Şanlıurfa and Hatay",2019-10-11,,,"Twitter, Facebook, WhatsApp and Instagram",,NetBlocks
+Türkiye,TR,National,2019-10-15,2019-10-15,,Twitter,,NetBlocks
+Türkiye,TR,National,2017-04-29,2020-01-15,,Wikipedia,,NetBlocks
+Türkiye,TR,National,2020-02-27,2022-02-28,,"Twitter, Facebook, Instagram, YouTube, WhatsApp",,NetBlocks
+Türkiye,TR,National,2022-11-13,,,"Twitter, Instagram, Facebook, YouTube, and some Telegram servers",,NetBlocks
+Türkiye,TR,National,2023-02-08,,,Twitter,,NetBlocks
+Uganda,UG,National,2021-01-12,,,"Twitter, Facebook, WhatsApp, Instagram, Snapchat, Skype, Viber, Google Play Store, some Telegram servers and link shortening services",,NetBlocks
+Venezuela,VE,National,2019-01-12,,,Wikipedia,,NetBlocks
+Venezuela,VE,National,2019-01-21,,,"Twitter, Instagram",,NetBlocks
+Venezuela,VE,National,2019-01-23,,protests,"Facebook, Instagram, YouTube, Google search, Android servers, etc.",,NetBlocks
+Venezuela,VE,National,2019-01-27,2019-01-27,,"Periscope, YouTube, Instagram and Facebook",,NetBlocks
+Venezuela,VE,National,2019-01-29,,,"Periscope, YouTube",,NetBlocks
+Venezuela,VE,National,2019-02-12,2019-02-12,,"YouTube, other Google services",,NetBlocks
+Venezuela,VE,National,2019-02-16,,,Venezuela’s Coalition for Aid and Freedom web platform,,NetBlocks
+Venezuela,VE,National,2019-02-18,,,"YouTube, Bing",,NetBlocks
+Venezuela,VE,National,2019-02-22,2019-02-22,,"YouTube, Bing, Google services",,NetBlocks
+Venezuela,VE,National,2019-02-23,2019-02-23,,"YouTube, VIVOplay, Bing, Google services, Periscope",,NetBlocks
+Venezuela,VE,National,2019-02-24,2019-02-24,,"YouTube, VIVOplay, Bing and Google services",,NetBlocks
+Venezuela,VE,National,2019-02-25,2019-02-25,,"YouTube, streaming services",,NetBlocks
+Venezuela,VE,National,2019-02-27,2019-02-27,,"Twitter, Soundcloud, YouTube, Bing and Google services",,NetBlocks
+Venezuela,VE,National,2019-03-04,,,Twitter,,NetBlocks
+Venezuela,VE,National,2019-03-07,,,YouTube,,NetBlocks
+Venezuela,VE,National,2019-03-27,2019-03-27,,"YouTube, Twitter’s video streaming service Periscope, several Google services and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-04-14,2019-04-14,,"YouTube, Twitter’s video streaming service Periscope, several Google services and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-04-19,2019-04-19,,"YouTube, several Google services, Android mobile backend servers and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-04-27,2019-04-27,,Instagram and Periscope,,NetBlocks
+Venezuela,VE,National,2019-04-30,2019-04-30,,"Twitter, Periscope, YouTube, Facebook and several other services",,NetBlocks
+Venezuela,VE,National,2019-05-01,,,"YouTube, Google services and Bing",,NetBlocks
+Venezuela,VE,National,2019-05-02,2019-05-02,,"Google services (and briefly, Twitter and Instagram)",,NetBlocks
+Venezuela,VE,National,2019-05-03,2019-05-03,,"YouTube, Google services, Bing and Periscope",,NetBlocks
+Venezuela,VE,National,2019-05-07,2019-05-07,,"YouTube, Google apps, Android backend servers and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-05-09,2019-05-09,,"YouTube, Google apps, Android backend servers and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-05-09,2019-05-09,,"YouTube, Google services, Twitter’s Periscope and Bing",,NetBlocks
+Venezuela,VE,National,2019-05-11,2019-05-11,,"YouTube, Google services, Bing and Periscope",,NetBlocks
+Venezuela,VE,National,2019-05-14,2019-05-14,,"YouTube, Google services, Bing and Periscope",,NetBlocks
+Venezuela,VE,National,2019-05-16,2019-05-16,,"YouTube, Google services, Bing and Periscope",,NetBlocks
+Venezuela,VE,National,2019-05-18,2019-05-18,,"YouTube, several Google services, Android mobile backend servers and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-05-21,2019-05-21,,"YouTube, Twitter’s video service Periscope, Google services and Bing",,NetBlocks
+Venezuela,VE,National,2019-05-23,2019-05-23,,"YouTube, several Google services, Android mobile backend servers and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-05-24,2019-05-24,,"YouTube, Periscope, several Google services, Android mobile backend servers and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-06-11,2019-06-11,,"YouTube, Periscope, Bing and Google services",,NetBlocks
+Venezuela,VE,National,2019-06-15,2019-06-15,,"Instagram, YouTube, Periscope, Bing and Google services",,NetBlocks
+Venezuela,VE,National,2019-06-17,2019-06-17,,"YouTube, several Google services, Android mobile backend servers and Microsoft Bing",,NetBlocks
+Venezuela,VE,National,2019-06-18,2019-06-18,,Twitter and Instagram,,NetBlocks
+Venezuela,VE,National,2019-06-19,,,"YouTube, Google services, and Bing",,NetBlocks
+Venezuela,VE,National,2019-11-16,2019-11-16,,"Twitter, Facebook, Instagram, YouTube",,NetBlocks
+Venezuela,VE,National,2020-01-05,2020-01-05,,"Twitter, Instagram, YouTube, Facebook",,NetBlocks
+Zambia,ZM,National,2021-08-12,2021-08-13,,"Twitter, Facebook, Instagram, Messenger, WhatsApp",,NetBlocks

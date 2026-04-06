@@ -1,0 +1,19 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Ethiopia,ET,"Amhara, Addis Ababa and Oromia",2016-03-07,,,Blocking of the WhatsApp app,,OONI
+Ethiopia,ET,National,2016-07-09,2016-07-14,,"Blocking of social media around exams, Blocking of social media during exams",https://www.aljazeera.com/news/2016/7/12/ethiopia-blocks-social-media-sites-over-exam-leak,OONI
+Ethiopia,ET,Nationwide,2016-07-11,2016-07-13,Unknown,Social media,http://www.bbc.com/news/world-africa-36763572,Access Now
+Ethiopia,ET,Oromia,2016-08-07,,Protests,Social media,http://www.bbc.com/news/world-africa-37004725,Access Now
+Ethiopia,ET,,2016-10-05,,,"Social media, mobile Internet","https://www.amnesty.org/en/documents/afr25/5312/2016/en/, https://globalvoices.org/2016/10/11/ethiopian-authorities-shut-down-mobile-internet-and-major-social-media-sites/",OONI
+Ethiopia,ET,,2016-10-15,,Protests,"Ethiopia declared a state of emergency on October 8, 2015 during mass protests. Social media platforms were blocked and coverage of protests was banned. On October 15, Ethiopia issued a directive enumerating prohibited acts during state of emergency and allowing security forces to search or arrest citizens without a warrant.",https://www.amnesty.org/en/documents/afr25/5312/2016/en/,Other
+Ethiopia,ET,Oromia region and Addis Ababa city,2017-12-12,,Protests,Social media only,http://www.africanews.com/2017/12/12/ethiopia-restricts-internet-access-amidst-new-protests//,Access Now
+Ethiopia,ET,National,2019-06-10,2019-06-17,,"Blocking WhatsApp, Blocking Telegram",,NetBlocks
+Ethiopia,ET,National,2019-06-12,2019-06-18,,Blocking of Whatsapp/Telegram,,OONI
+Ethiopia,ET,National,2019-06-22,2019-08-22,Political Instability,"Facebook, WhatsApp",https://transparency.facebook.com/internet-disruptions,Access Now
+Ethiopia,ET,National,2019-06-27,,,"Blocking of whatsapp, Facebook, Instagram, Messenger, WhatsApp, some VPN sites, Telegram, YouTube",,"OONI, NetBlocks"
+Ethiopia,ET,Regional,2019-08-05,,,Blocking of africanarguments.org,,OONI
+Ethiopia,ET,"Kellem Wellega, West Wellega, Horo Gudru Wellega zones",2020-01-03,2020-04-01,Political instability,"Facebook, Twitter, WhatsApp",https://www.hrw.org/news/2020/03/09/ethiopia-communications-shutdown-takes-heavy-toll; https://amharic.voanews.com/a/oromia-violence-1-10-2020-/5240740.html,Access Now
+Ethiopia,ET,,2020-07-14,,Protests,"Ethiopia partially restored Internet access after a two-week shutdown prompted by protests following the murder of popular singer and political figure Hachalu Hundessa. However, Facebook and Instagram remained blocked.",https://extensia.tech/ethiopia-partially-restores-internet-after-two-week-shutdown/,CenAlerttialBlockAlert
+Ethiopia,ET,National,2021-05-16,2021-05-16,Unknown,"Facebook, WhatsApp, Instagram",https://x.com/netblocks/status/1394083124062130179,Access Now
+Ethiopia,ET,National,2021-11-08,2021-11-12,,"Facebook, Messenger, some WhatsApp and Telegram servers",,NetBlocks
+Ethiopia,ET,"Nationwide, National",2023-02-09,2023-07-17,"government_action, Protests","Facebook, Telegram, TikTok and YouTube, Facebook, Telegram, TikTok, Facebook, Telegram, TikTok, YouTube, YouTube, Blocking social media amid church split tensions and calls for anti-government protests, Facebook, Telegram, Tik Tok, YouTube","https://ooni.org/post/2023-ethiopia-blocks-social-media/; https://explorer.ooni.org/findings/186069533301; https://www.amnesty.org/en/latest/news/2023/03/ethiopians-in-social-media-blackout-for-second-month/, https://pulse.internetsociety.org/shutdowns/social-media-blocking-in-ethiopia-february-2023","OONI, Access Now, NetBlocks, Pulse"
+Ethiopia,ET,Amhara region,2023-08-02,,Other,"Facebook, Twitter, WhatsApp",https://ehrc.org/amhara-region-concerning-human-rights-violations-in-the-context-of-the-armed-conflict/; https://twitter.com/CloudflareRadar/status/1696160808407839068; https://twitter.com/CARDEthiopia/status/1687027063046221824?s=20,Access Now

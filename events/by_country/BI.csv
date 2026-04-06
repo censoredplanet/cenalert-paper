@@ -1,0 +1,2 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Burundi,BI,National,2020-05-20,2020-05-21,Elections,"Blocking of social media during elections, Twitter, Facebook, Instagram, Telegram and WhatsApp, Facebook, Twitter, WhatsApp, Instagram, Telegram, Youtube and other Google services","https://www.accessnow.org/keepiton-burundi-silences-the-majority-on-election-day/, https://www.bbc.com/news/world-africa-52737081","OONI, Access Now, NetBlocks"

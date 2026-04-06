@@ -1,0 +1,4 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Tajikistan,TJ,National,2019-04-23,2019-05-08,Unknown,Facebook,"https://pulse.internetsociety.org/shutdowns/shutdown-77, Facebook Transparency Report","Pulse, Access Now"
+Tajikistan,TJ,National,2019-05-21,2019-05-29,"Political Instability, government_action","Facebook, Twitter, Instagram, Gmail, YouTube, Google Drive","https://eurasianet.org/tajikistan-internet-grinds-to-a-halt-after-presidents-criticis, https://eurasianet.org/tajikistan-opposition-party-accuses-government-of-prison-bloodshed-coverup, https://pulse.internetsociety.org/shutdowns/shutdown-104","Pulse, Access Now"
+Tajikistan,TJ,National,2021-01-11,2021-01-12,Unknown,"Facebook, Instagram, Gmail",https://eurasianet.org/tajikistan-authorities-somehow-find-more-room-for-internet-censorship; https://rus.ozodi.org/a/31043869.html,Access Now

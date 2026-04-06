@@ -1,0 +1,7 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Brazil,BR,National,2015-12-17,2015-12-17,,Blocking WhatsApp,,OONI
+Brazil,BR,nationwide,2016-05-02,2016-05-03,Other,"Blocking WhatsApp, WhatsApp",http://tecnologia.elpais.com/tecnologia/2016/05/02/actualidad/1462203263_150504.html?id_externo_rsoc=TW_CM,"OONI, Access Now"
+Brazil,BR,nationwide,2016-07-19,2016-07-19,Other,WhatsApp,http://m.folha.uol.com.br/mercado/2016/07/1793291-presidente-do-stf-suspende-bloqueio-do-whatsapp-no-brasil.shtml,Access Now
+Brazil,BR,Nationwide,2022-03-18,2022-03-20,Elections,Telegram,"https://www.dw.com/en/brazil-telegram-messaging-app-blocked-by-top-court/a-61183805, https://www.reuters.com/technology/brazil-court-gives-telegram-sunday-deadline-comply-with-order-2022-03-20/, https://explorer.ooni.org/chart/mat?probe_cc=BR&test_name=telegram&since=2022-03-01&until=2022-04-01&axis_x=measurement_start_day",Access Now
+Brazil,BR,Nationwide,2023-04-26,2023-04-30,Information control,"Telegram, Blocking Telegram",https://ooni.org/post/2023-brazil-telegram/; https://explorer.ooni.org/chart/mat?test_name=telegram&axis_x=measurement_start_day&since=2023-04-17&until=2023-05-02&time_grain=day&probe_cc=BR; https://www.dw.com/en/brazil-court-orders-temporary-suspension-of-telegram-over-neo-nazi-probe/a-65446224,"OONI, Access Now, NetBlocks"
+Brazil,BR,National,2024-08-31,2024-10-11,,Twitter/X,,OONI

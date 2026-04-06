@@ -1,0 +1,3 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Kenya,KE,Nationwide,2023-11-08,2023-11-24,Exam cheating,Telegram,https://explorer.ooni.org/findings/228466228201,"OONI, Access Now"
+Kenya,KE,,2024-06-25,,Protests,"Kenya experienced Internet disruptions during planned protests against a new bill imposing heavy taxes on essential goods. While major ISPs attributed the disruptions to submarine cable issues, Access Now argued that the timing of the outages suggested an intentional shutdown.","https://www.accessnow.org/press-release/kenya-protests-internet-shutdown/, https://pulse.internetsociety.org/en/shutdowns/shutdown-in-kenya/, https://pulse.internetsociety.org/blog/kenya-internet-disrupted-amidst-protests",Pulse

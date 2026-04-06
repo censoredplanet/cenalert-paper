@@ -1,0 +1,3 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Qatar,QA,,2017-09-07,,,VoIP,https://dohanews.co/voip-outages-continue-to-frustate-qatar-residents-2/,CenAlerttialBlockAlert
+Qatar,QA,Nationwide,2020-01-01,,Information control,Grindr,https://explorer.ooni.org/chart/mat?probe_cc=QA&since=2020-01-01&until=2020-12-31&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com; https://ooni.org/post/2023-jordan-blocks-grindr/#conclusion; https://explorer.ooni.org/chart/mat?probe_cc=QA&since=2023-01-01&until=2024-04-01&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com,Access Now

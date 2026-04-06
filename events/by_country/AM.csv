@@ -1,0 +1,2 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Armenia,AM,Regional,2022-09-13,2022-09-21,Political instability,"TikTok, Blocking TikTok",https://ooni.org/post/2022-azerbaijan-and-armenia-blocks-tiktok/,"OONI, Access Now, NetBlocks"

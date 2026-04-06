@@ -1,0 +1,4 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Italy,IT,,2020-03-09,,COVID-19,"COVID-19 restrictions entered into effect. The pandemic raised global demand for VPNs, both for remote work and for accessing geo-restricted content.",https://www.top10vpn.com/research/vpn-demand-statistics-2020/#vpn-demand-by-region,Other
+Italy,IT,National,2020-05-20,,,Blocking Project Gutenberg website,,OONI
+Italy,IT,,2023-03-31,,,ChatGPT,https://www.npr.org/2023/03/31/1167491843/chatgpt-italy-ban-openai-data-collection-ai,CenAlerttialBlockAlert

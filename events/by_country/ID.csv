@@ -1,0 +1,8 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Indonesia,ID,National,2014-05-11,,,"Blocking Vimeo, Reddit",https://www.techinasia.com/online-porn-crackdown-vimeo-reddit-imgur-blocked-indonesia,OONI
+Indonesia,ID,Nationwide,2016-09-15,,Information control,"Grindr, Blued, BoyAhoy",https://explorer.ooni.org/chart/mat?probe_cc=ID&since=2023-01-01&until=2024-04-01&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com; https://ooni.org/post/2023-jordan-blocks-grindr/#conclusion; https://time.com/4496531/indonesia-lgbt-grinder/,Access Now
+Indonesia,ID,National,2016-11-04,,,Blocking suarapapua.com,,OONI
+Indonesia,ID,Nationwide,2018-04-27,,Information control,Telegram,https://twitter.com/InternetIntel/status/991334539388772353,Access Now
+Indonesia,ID,National,2019-05-22,2019-05-25,"Elections, protests","WhatsApp, Facebook, Instagram, Telegram, Facebook, Twitter, WhatsApp, Instagram, Facebook Messenger","https://netblocks.org/reports/indonesia-blocks-social-media-as-election-protests-escalate-XADE7LBg, https://techcrunch.com/2019/05/22/indonesia-restricts-whatsapp-and-instagram/, https://securityboulevard.com/2019/06/all-the-internet-shutdowns-of-2019-so-far/, https://transparency.facebook.com/internet-disruptions, https://pulse.internetsociety.org/shutdowns/shutdown-106","Pulse, Access Now, NetBlocks"
+Indonesia,ID,National,2022-07-29,,,"Blocking gaming websites, yahoo, Payment Services and Gaming Platforms (e.g., PayPal, Steam)",https://www.theregister.com/2022/08/01/indonesia_blocks_sites_pse_noncompliance/,"OONI, NetBlocks"
+Indonesia,ID,National,2024-07-29,,,DuckDuckGo,,OONI

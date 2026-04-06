@@ -1,0 +1,5 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Zambia,ZM,National,2013-06-24,,,Blocking HTTP connections to Zambianwatchdog.com,,OONI
+Zambia,ZM,National,2013-07-16,,,Blocking HTTPS connections to Zambianwatchdog.com,,OONI
+Zambia,ZM,National,2016-08-16,,,Internet shutdown approx. a week after contested elections,,OONI
+Zambia,ZM,"National, Entire country",2021-08-12,2021-08-14,"elections, Elections","Facebook, Twitter, WhatsApp, Instagram, Blocking of WhatsApp, Facebook, Twitter during elections, Twitter, Facebook, Instagram, Messenger, WhatsApp, Twitter, WhatsApp, Facebook",https://pulse.internetsociety.org/shutdowns/social-media-limitations-in-zambia,"OONI, Access Now, NetBlocks, Pulse"

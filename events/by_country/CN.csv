@@ -1,0 +1,10 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+China,CN,,2012-08-19,,Protests,"Anti-Japan protests erupted in China over the dispute concerning the Senkaku/Diaoyu Islands. Ironically, censorship controls appeared more relaxed than usual during this period.","https://globalvoices.org/2012/08/19/china-anti-japanese-protests/, https://www.bbc.com/news/world-asia-19312226, https://globalvoices.org/2012/09/16/china-censor-machine-suspended-for-anti-japan-mobilization/",Other
+China,CN,National,2016-11-10,,,Blocking Chinese language Wikipedia,,OONI
+China,CN,Nationwide,2017-07-11,,Unknown,WhatsApp,https://www.nytimes.com/2017/07/18/technology/whatsapp-facebook-china-internet.html,Access Now
+China,CN,National,2019-04-25,,,Blocking all of Wikipedia,,OONI
+China,CN,"Guangdong Province, Shanghai, Chongqing, and other places",2019-05-20,2019-05-31,"no_cause, Religious holiday/anniversary",,"https://pulse.internetsociety.org/shutdowns/shutdown-103, https://3g.163.com/dy/article/EGHRU2160527L76N.html","Pulse, Access Now"
+China,CN,Nationwide except for HK SAR,2021-03-16,,Information control,"Blocking Signal, Signal",https://techcrunch.com/2021/03/15/signal-is-down-in-china/,"OONI, Access Now"
+China,CN,Nationwide,2021-12-03,,Information control,Grindr,https://explorer.ooni.org/chart/mat?probe_cc=CN&since=2021-01-01&until=2021-12-31&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com; https://ooni.org/post/2023-jordan-blocks-grindr/#conclusion; https://explorer.ooni.org/chart/mat?probe_cc=CN&since=2023-01-01&until=2024-04-01&time_grain=day&axis_x=measurement_start_day&test_name=web_connectivity&domain=www.grindr.com; https://www.them.us/story/grindr-removed-china-app-stores-privacy,Access Now
+China,CN,National,2023-06-22,,,"F-Droid, Blocking F-Droid website",https://x.com/OpenObservatory/status/1673659531639894019,OONI
+China,CN,National,2023-07-07,,,"OONI, Blocking OONI",,OONI

@@ -1,0 +1,4 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+South Sudan,SS,National,2017-07-17,,,Blocking two media websites and two independent blogs,,OONI
+South Sudan,SS,Entire South Sudan,2021-08-29,2021-08-30,Protests,"Facebook, Twitter, WhatsApp",https://radiotamazuj.org/en/news/article/south-sudan-internet-cut-ahead-of-planned-protests,Access Now
+South Sudan,SS,National,2025-01-22,,government_action,"Facebook, TikTok",https://pulse.internetsociety.org/shutdowns/government-of-south-sudan-orders-blocking-of-social-media-for-at-least-30-days,Pulse

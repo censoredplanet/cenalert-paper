@@ -1,0 +1,4 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Spain,ES,Regional,2017-09-25,,,Blocking 25 sites related to Catalonia independence referendum,,OONI
+Spain,ES,,2020-03-14,,COVID-19,"COVID-19 restrictions entered into effect. The pandemic raised global demand for VPNs, both for remote work and for accessing geo-restricted content.",https://www.top10vpn.com/research/vpn-demand-statistics-2020/#vpn-demand-by-region,Other
+Spain,ES,,2024-03-07,,Surveillance,"A Spanish court issued an order obliging ISPs to provide La Liga with the IP addresses, names, and postal addresses of users connecting to pirated football streaming servers.",https://www.marca.com/futbol/primera-division/2024/03/07/65e9dcfc268e3edb428b45a9.html,Other

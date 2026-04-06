@@ -1,0 +1,204 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Armenia,AM,Regional,2022-09-13,2022-09-21,,Blocking TikTok,,OONI
+Azerbaijan,AZ,National,2017-05-12,,,Blocking of rferl.org,https://www.rferl.org/a/azerbaijan-rferl-service-website-court-orders-blocked/28482679.html,OONI
+Azerbaijan,AZ,National,2017-09-05,,,Blocking of occrp.org,https://www.meydan.tv/en/article/occrp-blocked-in-azerbaijan/,OONI
+Azerbaijan,AZ,National,2020-09-27,2020-11-20,,Blocking of social media websites during Nagorno-Karabakh war,,OONI
+Azerbaijan,AZ,National,2022-09-14,2022-11-06,,Blocking TikTok,,OONI
+Azerbaijan,AZ,Regional,2022-12-25,,,Blocking of the Guardian on some ISPs,,OONI
+Belarus,BY,National,2016-12-01,,,Blocking Tor,,OONI
+Belarus,BY,National,2020-08-09,,,"Blocking SSL traffic destined to popular messaging apps, social media platforms, email providers, VPNs, etc.; blocking of belarus2020.org","https://netblocks.org/reports/internet-disruption-hits-belarus-on-election-day-YAE2jKB3, https://blog.psiphon.ca/2020/08/20/amid-major-network-disruptions-1.76m-psiphon-users-in-belarus/",OONI
+Belarus,BY,National,2020-08-22,,,"Blocking of 86+ websites (mainly news media, electoral sites, and sites expressing political criticism) amidst protests",,OONI
+Benin,BJ,National,2019-04-28,2019-04-29,,"Blocking social media, also scattered shutdowns 28/29",,OONI
+Brazil,BR,National,2015-12-17,2015-12-17,,Blocking WhatsApp,,OONI
+Brazil,BR,National,2016-05-02,2016-05-03,,Blocking WhatsApp,,OONI
+Brazil,BR,National,2023-04-26,,,Blocking Telegram,,OONI
+Burundi,BI,National,2020-05-20,,,Blocking of social media during elections,https://www.bbc.com/news/world-africa-52737081,OONI
+Cambodia,KH,National,2018-07-27,,,Blocking of independent news media before election,,OONI
+Cambodia,KH,National,2018-07-28,,,Blocking news media before election,https://cpj.org/2018/07/cpj-condemns-pre-election-news-censorship-in-cambo/,OONI
+Cambodia,KH,National,2018-07-28,,,Blocking of independent news media before election,,OONI
+Cambodia,KH,National,2022-02-16,,,Blocking of illegal gambling sites,https://focusgn.com/asia-pacific/cambodia-blocks-15-illegal-lottery-websites,OONI
+China,CN,National,2016-11-10,,,Blocking Chinese language Wikipedia,,OONI
+China,CN,National,2019-04-25,,,Blocking all of Wikipedia,,OONI
+China,CN,National,2021-03-16,,,Blocking Signal,,OONI
+China,CN,National,2023-06-22,,,Blocking F-Droid website,https://x.com/OpenObservatory/status/1673659531639894019,OONI
+China,CN,National,2023-07-07,,,Blocking OONI,,OONI
+Cuba,CU,National,2019-02-24,,,Blocking independent media,,OONI
+Cuba,CU,National,2021-07-12,,,Blocking Signal (along with other social media amid protests),,OONI
+Egypt,EG,National,2016-01-05,,,Blocking HTTP connections to media website www.alaraby.co.uk,,OONI
+Egypt,EG,National,2016-08-27,2016-09-01,,HTTPS throttling to servics using DigOcean's Frankfurt server,,OONI
+Egypt,EG,National,2016-10-25,,,Targetted blocking of Tor default configurations,,OONI
+Egypt,EG,National,2016-12-17,,,Blocking Signal,,OONI
+Egypt,EG,National,2017-05-24,,,Blocking news media websites,,OONI
+Egypt,EG,National,2019-09-22,,,Blocking BBC and Alhurra news media websites coinciding with protests,,OONI
+Ethiopia,ET,National,2016-03-07,,,Blocking of the WhatsApp app,,OONI
+Ethiopia,ET,National,2016-07-09,2016-07-14,,Blocking of social media during exams,https://www.aljazeera.com/news/2016/7/12/ethiopia-blocks-social-media-sites-over-exam-leak,OONI
+Ethiopia,ET,National,2019-06-12,2019-06-18,,Blocking of Whatsapp/Telegram,,OONI
+Ethiopia,ET,National,2019-06-27,,,Blocking of whatsapp,,OONI
+Ethiopia,ET,National,2019-08-05,,,Blocking of africanarguments.org,,OONI
+Ethiopia,ET,National,2023-02-09,,,Blocking social media amid church split tensions and calls for anti-government protests,,OONI
+Ethiopia,ET,National,2023-02-10,,,YouTube,,OONI
+Hong Kong,HK,National,2021-01-06,,,Blocking of HKChronicles website,https://hkchronicles.com/d/view/announcement-on-blockage,OONI
+Hong Kong,HK,National,2021-06-18,,,Blocking of Hong Kong Charter 2021 website,https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/639845/%E5%9C%8B%E5%AE%89%E6%B3%95%E4%B8%80%E5%B9%B4-%E9%A6%99%E6%B8%AF%E7%B4%84%E7%AB%A0-%E7%B6%B2%E7%AB%99%E5%86%8D%E8%A2%AB%E7%A6%81-%E6%B6%88%E6%81%AF-%E6%B8%AF%E9%9B%BB%E8%A8%8A%E5%95%86%E8%A2%AB%E5%8B%92%E4%BB%A4%E5%B0%81%E7%B6%B2,OONI
+Hong Kong,HK,National,2021-09-28,,,Blocking of Tiananmen square commemorative website,https://web.archive.org/web/20211021192323/https://www.thestandnews.com/politics/%E5%85%AD%E5%9B%9B%E8%A8%98%E6%86%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E7%B6%B2%E7%AB%99%E7%96%91%E8%A2%AB%E5%B0%81-%E7%94%B1%E6%94%AF%E8%81%AF%E6%9C%83%E7%9C%BE%E7%B1%8C%E8%A8%AD%E7%AB%8B-%E9%A6%99%E6%B8%AF%E7%B6%B2%E6%B0%91%E9%A0%88%E7%BF%BB%E7%89%86%E7%80%8F%E8%A6%BD,OONI
+Hong Kong,HK,National,2022-02-14,,,Blocking of Hong Kong Watch website,https://web.archive.org/web/20220215003834/https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20220215/s00002/1644861077099/hong-kong-watch%E7%B6%B2%E9%A0%81%E6%B8%AF%E7%84%A1%E6%B3%95%E5%85%A5-%E7%A8%B1%E6%96%99%E8%AD%A6%E8%A6%81%E6%B1%82,OONI
+Indonesia,ID,National,2014-05-11,,,"Blocking Vimeo, Reddit",https://www.techinasia.com/online-porn-crackdown-vimeo-reddit-imgur-blocked-indonesia,OONI
+Indonesia,ID,National,2016-11-04,,,Blocking suarapapua.com,,OONI
+Indonesia,ID,National,2022-07-30,,,"Blocking gaming websites, yahoo",https://www.theregister.com/2022/08/01/indonesia_blocks_sites_pse_noncompliance/,OONI
+Iran,IR,National,2018-01-01,,,Blocking of Telegram/Instagram,,OONI
+Iran,IR,National,2018-01-02,,,Blocking of Tor,,OONI
+Iran,IR,National,2020-03-02,2020-03-03,,Blocking Farsi language version of Wikipedia,,OONI
+Iran,IR,National,2021-01-25,,,Blocking Signal,,OONI
+Iran,IR,National,2022-09-20,,,Blocking of encrypted DNS,,OONI
+Iran,IR,National,2022-09-21,,,Blocking of Whatsapp,,OONI
+Iran,IR,National,2022-09-22,,,Blocking of Google play store and Apple app store,,OONI
+Iran,IR,National,2022-09-22,,,Blocking of HTTP/3 and QUIC traffic,,OONI
+Iran,IR,National,2022-09-22,2022-10-02,,Disruption/potential blocking of IPv6 traffic,,OONI
+Iran,IR,National,2022-09-23,,,Blocking of Skype and LinkedIn,,OONI
+Iran,IR,National,2022-09-26,,,Blocking of browser extension repositories,,OONI
+Italy,IT,National,2020-05-20,,,Blocking Project Gutenberg website,,OONI
+Jordan,JO,National,2016-07-14,,,Blocking of My.Kali (an LGBTQ online magazine),https://cpj.org/2017/08/jordan-blocks-access-to-lgbtq-online-magazine/,OONI
+Jordan,JO,National,2018-11-30,2018-11-30,,Facebook livestreaming interference,,OONI
+Jordan,JO,National,2018-12-13,2018-12-13,,Facebook livestreaming interference,,OONI
+Jordan,JO,National,2018-12-20,2018-12-20,,Facebook livestreaming interference,,OONI
+Jordan,JO,National,2018-12-27,2018-12-27,,Facebook livestreaming interference,,OONI
+Jordan,JO,National,2019-01-03,2019-01-03,,Facebook livestreaming interference,,OONI
+Jordan,JO,National,2019-01-10,2019-01-10,,Facebook livestreaming interference,,OONI
+Jordan,JO,National,2023-08-08,,,Blocking Grindr,,OONI
+Kazakhstan,KZ,National,2020-07-14,,,Blocking of vpn related domains,,OONI
+Kazakhstan,KZ,National,2021-10-04,2021-10-13,,Blocking of HOLA News,https://cpj.org/2021/10/kazakh-outlet-hola-news-reports-website-blocks-after-pandora-papers-coverage/,OONI
+Kazakhstan,KZ,National,2022-09-27,,,Throttling Radio Free Europe/Radio Liberty website,,OONI
+Kazakhstan,KZ,National,2022-11-20,2022-11-29,,Throttling www.currenttime.tv,,OONI
+Kazakhstan,KZ,National,2023-06-30,,,Blocking of amnestry.org.ru,,OONI
+Kazakhstan,KZ,National,2023-08-17,,,Blocking of Russian news media Tsargrad,https://rus.azattyq.org/a/32552586.html,OONI
+Kazakhstan,KZ,National,2023-11-18,,,Blocking of Russian news media Sputnik24,https://kyivindependent.com/media-kazakhstan-blocks-russian-tv-portal/,OONI
+Malaysia,MY,National,2016-02-16,,,Blocking BBC article,,OONI
+Mali,ML,National,2016-08-08,,,Blocking of social media during violent protests against the detention of a popular radio host,https://qz.com/africa/762082/mali-is-the-latest-african-country-to-impose-a-social-media-blackout,OONI
+Mali,ML,"Bamako, Timbaktu, and Gao",2018-07-29,,,Blocking of social media during elections,,OONI
+Myanmar,MM,National,2014-07-03,2014-07-04,,Blocking Facebook,,OONI
+Myanmar,MM,National,2020-03-23,,,"Blocking ""fake news"" websites",,OONI
+Myanmar,MM,National,2021-02-04,,,"Blocking Facebook, Messenger, Whatsapp",,OONI
+Myanmar,MM,National,2021-02-04,,,"Blocking Wikipedia, social media, circumvention tool websites",,OONI
+Myanmar,MM,National,2021-02-05,,,Blocking access to Twitter and Instagram,,OONI
+Myanmar,MM,National,2021-02-20,,,Blocking wikipedia,,OONI
+Pakistan,PK,National,2012-09-17,2016-01-18,,Blocking of Youtube,https://www.washingtonpost.com/business/economy/youtube-blocked-in-pakistan/2012/09/17/30081fa2-00ea-11e2-b257-e1c2b3548a4a_story.html,OONI
+Pakistan,PK,Unknown,2014-03-05,,,Blocking of DeviantArt website,https://aaopblog.wordpress.com/2014/03/05/deviantart-blocked-in-pakistan/,OONI
+Pakistan,PK,National,2015-09-11,,,Blocking of political forum Siasat.PK,https://propakistani.pk/2015/09/11/siasat-pk-forced-by-the-government-to-shut-down/,OONI
+Pakistan,PK,National,2016-01-12,,,Ordered blocking of 'objectionable' websites,,OONI
+Pakistan,PK,National,2017-01-25,,,Blocking of Khabaristan Times political website,,OONI
+Pakistan,PK,"Confirmed Karachi, Lahore, Faisalabad, Rawalpindi, Gujranwala, Islamabad, Quetta and Peshawar, likely nationwide",2017-11-25,2017-11-26,,"Blocking Facebook, Twitter, YouTube, Instagram, IM apps, news websites amidst Islamist protests",,OONI
+Pakistan,PK,National,2023-01-16,,,Blocking Deutsche Welle,,OONI
+Pakistan,PK,Natioanl,2023-02-01,2023-02-06,,Blocking Wikipedia,,OONI
+Philippines,PH,National,2022-06-17,,,Blocking of foreign news sites (including bulatlat.com),https://www.rappler.com/philippines/esperon-uses-anti-terror-law-block-access-progressive-websites-including-news-organization/,OONI
+Russia,RU,National,2020-03-02,,,Blocking of 3 Digitial Ocean DNS servers,https://t.me/usher2/1518,OONI
+Russia,RU,National,2021-03-10,,,Throttling Twitter,https://roskomsvoboda.org/en/cards/card/twitter-vs-rkn/,OONI
+Russia,RU,National,2021-07-21,,,Blocking Amnesty International,,OONI
+Russia,RU,Regional,2021-12-01,,,Some ISPs blocking Tor network,,OONI
+Russia,RU,National,2021-12-08,,,Tor website added to national blocklist,,OONI
+Russia,RU,National,2022-02-07,,,Hromadske,,OONI
+Russia,RU,National,2022-02-23,,,Blocking saverudata.info and itarmy.com.ua,,OONI
+Russia,RU,National,2022-02-26,2022-03-04,,Throttling of Twitter,,OONI
+Russia,RU,National,2022-02-26,,,Throttling Twitter,,OONI
+Russia,RU,National,2022-02-27,,,Blocking foreign news websites,,OONI
+Russia,RU,National,2022-02-28,,,Blocking foreign news websites,,OONI
+Russia,RU,National,2022-03-01,,,Blocking of tvrain.ru,,OONI
+Russia,RU,National,2022-03-03,,,Blocking of facebook.com,,OONI
+Russia,RU,National,2022-03-04,,,Blocking foreign news websites and Deutshe Welle (dw.com),,OONI
+Russia,RU,National,2022-03-04,,,Blocking HTTP/3,,OONI
+Russia,RU,National,2022-03-04,,,Blocking Twitter and Facebook,,OONI
+Russia,RU,National,2022-03-10,,,Blocking Amnesty International,,OONI
+Russia,RU,National,2022-03-13,,,"Blocking Instagram, Agentura.Ru",,OONI
+Russia,RU,National,2022-04-17,,,Blocking HRW website,,OONI
+Russia,RU,National,2022-04-22,,,Blocking website of S.T.A.L.K.E.R. 2: Heart of Chornobyl,,OONI
+Russia,RU,Regional,2022-05-19,2022-06-07,,Blocking access to Cloudflare and DigitalOcean networks on some ports,,OONI
+Russia,RU,National,2022-06-01,,,Blocking Proton VPN and NordVPN,,OONI
+Russia,RU,National,2022-06-03,,,Blocking German cloud and mail service Eclipso,,OONI
+Russia,RU,National,2022-06-04,,,"Blocking Forklog, popular media about cryptocurrency",,OONI
+Russia,RU,National,2022-07-29,,,Blocking Tor website (after brief unblocking),,OONI
+Russia,RU,National,2022-08-06,,,Blocking Patreon,,OONI
+Russia,RU,National,2022-10-01,,,Blocking SoundCloud,,OONI
+Russia,RU,Regional,2022-12-05,,,Partial blocking YouTube,,OONI
+Russia,RU,National,2023-01-23,,,"Blocking of certain VPN protocols in eastern regions (Altai, Biysk, Omsk, Novosibirsk and others)",https://t.me/ru_tech_talk/448,OONI
+Russia,RU,National,2023-01-27,,,Blocking Amnesty International,,OONI
+Russia,RU,National,2023-02-01,,,"Blocking of certain VPN protocols spreads (Perm, Orsk, Novocheboksarsk, Tolyatti, Yakutsk, Kazan, Yelabuga, Ufa, Cheboksary, Nizhny Novgorod)",https://t.me/ru_tech_talk/450,OONI
+Russia,RU,National,2023-02-07,,,Blocking Moscow Helsinki Group,,OONI
+Russia,RU,National,2023-02-17,,,Blocking The Bell (news media),,OONI
+Russia,RU,National,2023-05-31,,,Blocking of certain VPN protocols spreads to Moscow,https://ntc.party/t/%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-openvpnwireguard-%D0%BD%D0%B0-%D1%82%D1%81%D0%BF%D1%83-31052023-082023/4576,OONI
+Russia,RU,National,2024-08-02,,,Blocking of EU news media websites,,OONI
+Russia,RU,National,2024-09-11,,,Blocking OONI Explorer,,OONI
+Russia,RU,National,2024-10-08,,,Blocking of Discord,,OONI
+Russia,RU,National,2024-11-05,,,Blocking access to Cloudflare ECH,https://github.com/net4people/bbs/issues/417,OONI
+Senegal,SN,National,2023-06-01,2023-06-07,,Blocking of social media,,OONI
+Senegal,SN,National,2023-06-01,2023-07-18,,Blocking of Telegram,,OONI
+Senegal,SN,National,2023-06-05,2023-06-07,,Blocking of Tiktok,,OONI
+South Sudan,SS,National,2017-07-17,,,Blocking two media websites and two independent blogs,,OONI
+Spain,ES,Regional,2017-09-25,,,Blocking 25 sites related to Catalonia independence referendum,,OONI
+Tanzania,TZ,National,2020-10-27,,,"Blocking social media (WhatsApp, Facebook Messenger, and Telegram, Twitter, Instagram, TikTok, YouTube) and Tor during elections",,OONI
+Tanzania,TZ,National,2023-02-07,,,Blocking of thetrevorproject.org,,OONI
+Tanzania,TZ,National,2023-04-19,,,Blocking of eharmony.com,,OONI
+Tanzania,TZ,National,2023-05-05,,,Blocking of tinder.com,,OONI
+Tanzania,TZ,National,2023-08-13,,,Blocking of social network app Clubhouse,,OONI
+Thailand,TH,National,2014-05-28,2014-05-28,,Facebook blocked,,OONI
+Thailand,TH,National,2020-10-16,2021-04-22,,Blocking of Change.org,https://www.bbc.com/news/world-asia-54566767,OONI
+Togo,TG,National,2020-02-22,2020-02-24,,Blocking of IM apps during presidential election,https://x.com/Farida_N/status/1231262176851234817,OONI
+Türkiye,TR,National,2016-07-15,,,Social network (Twitter + Facebook) blocks/throttling following attempted coup,,OONI
+Türkiye,TR,National,2023-02-08,2023-02-08,,Blocking/throttling Twitter in aftermath of earthquake,,OONI
+Uganda,UG,National,2016-05-12,,,Blocking social media before presidential inauguration,,OONI
+Uganda,UG,National,2018-07-01,,,"Social media tax came into effect (blocking access unless paid, circumvention tool websites also blocked)",,OONI
+Uganda,UG,National,2018-07-06,,,Pornography blocked,,OONI
+Uganda,UG,National,2021-01-09,2021-01-18,,Blocking downloads from Google Play Store,,OONI
+Uganda,UG,National,2021-01-09,2021-01-19,,Blocking of Psiphon,,OONI
+Uganda,UG,National,2021-01-12,2021-01-19,,"Blocking of Instagram, Facebook, Twitter, and viber.com as well as other social media sites",,OONI
+Uganda,UG,National,2021-01-18,,,Blocking of Youtube,,OONI
+Venezeula,VE,National,2014-03-06,,,Blocking of Zello walk-talkie app,https://www.infobae.com/2014/03/06/1548288-zello-la-aplicacion-terrorista-los-estudiantes-venezolanos/,OONI
+Venezeula,VE,National,2017-04-07,,,Blocking of news websites,https://vesinfiltro.com/noticias/bloqueos_abril_2017/,OONI
+Venezeula,VE,National,2018-04-11,,,Blocking of independent news media,https://x.com/vesinfiltro/status/984156584845692928,OONI
+Venezeula,VE,National,2018-06-06,2018-06-10,,Blocking of independent news media lapatilla.com,,OONI
+Venezeula,VE,National,2018-06-20,2018-08-30,,Blocking of Tor,https://metrics.torproject.org/userstats-relay-country.html?start=2018-05-01&end=2018-10-01&country=ve&events=off,OONI
+Venezeula,VE,National,2018-08-13,,,Blocking of independent news media armando.info,,OONI
+Venezuela,VE,National,2019-01-12,2019-01-18,,Blocking Wikipedia,,OONI
+Venezuela,VE,National,2019-01-21,2019-01-21,,"Blocking of Instagram, Twitter, YouTube",https://vesinfiltro.com/noticias/twitter_youtube_instagram_2019-01/,OONI
+Venezuela,VE,National,2019-01-25,2019-01-25,,Instagram blocked again,https://x.com/vesinfiltro/status/1088833974603001856,OONI
+Venezuela,VE,National,2019-01-27,2019-01-27,,"Instagram, YouTube, Facebook, Periscope blocked",https://x.com/vesinfiltro/status/1089883867618652160,OONI
+Zambia,ZM,National,2013-06-24,,,Blocking HTTP connections to Zambianwatchdog.com,,OONI
+Zambia,ZM,National,2013-07-16,,,Blocking HTTPS connections to Zambianwatchdog.com,,OONI
+Zambia,ZM,National,2016-08-16,,,Internet shutdown approx. a week after contested elections,,OONI
+Zambia,ZM,National,2021-08-12,2021-08-14,,"Blocking of WhatsApp, Facebook, Twitter during elections",,OONI
+Zimbabwe,ZW,Regional,2018-08-01,,,Blocking of election watchdog site zimelection.com,https://x.com/zimelection2018/status/1024716868505010177,OONI
+Zimbabwe,ZW,National,2019-01-15,2019-01-21,,Blocking social media -> Internet shutdown amidst protests,,OONI
+Pakistan,PK,National,2023-01-16,2023-03-23,,Deutsche-Welle,,OONI
+Pakistan,PK,National,2023-02-01,2023-02-06,,Wikipedia,,OONI
+Türkiye,TR,National,2023-02-08,2023-02-09,,Twitter,,OONI
+Ethiopia,ET,National,2023-02-09,2023-07-17,,"Facebook, Telegram, TikTok and YouTube",,OONI
+Cambodia,KH,National,2023-02-13,,,Voice of Democracy,,OONI
+Tanzania,TZ,National,2023-03-21,,,Grindr,,OONI
+Brazil,BR,National,2023-04-27,2023-04-29,,Telegram,,OONI
+Pakistan,PK,National,2023-05-09,2023-05-17,,"Facebook, Twitter, YouTube, and Instagram",,OONI
+Guinea,GN,National,2023-05-17,2023-05-23,,"Facebook, Instagram, WhatsApp, YouTube, Snapchat, Telegram",,OONI
+Egypt,EG,National,2023-06-01,,,Proton services,,OONI
+Senegal,SN,National,2023-06-01,2023-06-07,,"Facebook, WhatsApp, Instagram, YouTube, Twitter, TikTok and Telegram",,OONI
+China,CN,National,2023-06-22,,,F-Droid,,OONI
+Malaysia,MY,National,2023-06-28,,,MalaysiaNow and of a website which belongs to a former Malaysian Member of Parliament,,OONI
+China,CN,National,2023-07-07,,,OONI,,OONI
+Cambodia,KH,National,2023-07-17,,,News media,,OONI
+Senegal,SN,National,2023-08-02,2024-02-17,,TikTok,,OONI
+Iraq,IQ,National,2023-08-05,2023-08-13,,Telegram,,OONI
+Jordan,JO,National,2023-08-08,,,Grindr,,OONI
+Tanzania,TZ,National,2023-08-13,,,Clubhouse,,OONI
+Azerbaijan,AZ,National,2023-09-19,2023-10-31,,TikTok and the Google Play Store,,OONI
+Kenya,KE,National,2023-11-08,2023-11-24,,Telegram,,OONI
+Nepal,NP,National,2023-11-24,2024-08-22,,TikTok,,OONI
+Guinea,GN,National,2023-11-24,2024-02-22,,"WhatsApp, Telegram, Twitter, Facebook, Instagram and Youtube",,OONI
+Bangladesh,BD,Regional,2024-01-06,2024-01-07,,News media,,OONI
+Pakistan,PK,National,2024-01-26,,,PTI political party sites and investigative news platform,,OONI
+Malaysia,MY,National,2024-04-17,,,Grindr,,OONI
+Kyrgyzstan,KG,National,2024-04-18,,,TikTok,,OONI
+Bangladesh,BD,National,2024-07-16,2024-08-05,,Facebook,,OONI
+Indonesia,ID,National,2024-07-29,,,DuckDuckGo,,OONI
+Türkiye,TR,National,2024-08-02,2024-08-10,,Instagram,,OONI
+Tanzania,TZ,Regional,2024-08-30,2024-08-31,,Twitter/X,,OONI
+Brazil,BR,National,2024-08-31,2024-10-11,,Twitter/X,,OONI
+Russia,RU,National,2024-10-08,,,Discord,,OONI
+Türkiye,TR,National,2024-10-08,,,Discord,,OONI
+Azerbaijan,AZ,National,2024-10-08,2024-10-10,,Twitter/X,,OONI
+Mauritius,MU,National,2024-11-01,2024-11-02,,"Facebook, Instagram, TikTok, YouTube, Twitter/X, and Linkedin",,OONI
+Russia,RU,National,2024-12-13,,,Viber,,OONI

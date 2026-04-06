@@ -1,0 +1,6 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Cambodia,KH,National,2018-07-27,,,"Blocking news media before election, Blocking of independent news media before election",https://cpj.org/2018/07/cpj-condemns-pre-election-news-censorship-in-cambo/,OONI
+Cambodia,KH,,2020-08-29,,Geo-restrictions,"King of Fighters, a popular game in Southeast Asia, held an in-game event that was exclusive to users in Brazil. Players outside Brazil resorted to VPNs to access the region-locked content.","https://www.reddit.com/r/MobileLegendsGame/comments/ijbq9z/brazil_kof_event/, https://www.reddit.com/r/MobileLegendsGame/comments/iipz6j/so_theres_this_event_for_brazilian_mlbb_players/, https://www.reddit.com/r/MobileLegendsGame/comments/ij0j1s/using_vpn_to_get_kof_skins/, https://www.wikihow.com/Get-Free-Skins-on-Mobile-Legends:-Bang-Bang",Other
+Cambodia,KH,National,2022-02-16,,,Blocking of illegal gambling sites,https://focusgn.com/asia-pacific/cambodia-blocks-15-illegal-lottery-websites,OONI
+Cambodia,KH,National,2023-02-13,,,Voice of Democracy,,OONI
+Cambodia,KH,National,2023-07-17,,,News media,,OONI

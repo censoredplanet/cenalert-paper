@@ -1,0 +1,19 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Egypt,EG,National,2016-01-05,,,Blocking HTTP connections to media website www.alaraby.co.uk,,OONI
+Egypt,EG,National,2016-08-27,2016-09-01,,HTTPS throttling to servics using DigOcean's Frankfurt server,,OONI
+Egypt,EG,National,2016-10-02,,,Targeted blocking of Tor default configurations,,OONI
+Egypt,EG,National,2016-10-25,,,Targeted blocking of Tor default configurations,,OONI
+Egypt,EG,National,2016-12-17,,,Blocking Signal,,OONI
+Egypt,EG,nationwide,2016-12-19,,Unknown,Signal,https://twitter.com/whispersystems/status/810945070182469632,Access Now
+Egypt,EG,,2017-04-21,,,VoIP,"https://www.dailynewsegypt.com/2017/04/22/ntra-denies-blocking-voip-services-egypt/, https://www.egyptindependent.com/social-media-users-infuriated-online-calls-disruption-ntra-denies-blockage/",CenAlerttialBlockAlert
+Egypt,EG,National,2017-05-24,,,Blocking news media websites,,OONI
+Egypt,EG,,2017-12-28,,,"Pornography, Torrents",https://www.reddit.com/r/Egypt/comments/7mjpzh/porn_blocked_in_egypt/,CenAlerttialBlockAlert
+Egypt,EG,,2018-10-06,,,Pornography,https://www.reddit.com/r/Egypt/comments/96hn1m/comment/e7997qg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button,CenAlerttialBlockAlert
+Egypt,EG,National,2019-04-09,,,"Voiceonline, an opposition campaign petition website",,NetBlocks
+Egypt,EG,National,2019-04-15,,,"Blocking 34,000 domains hosted at on a shared IP address",,NetBlocks
+Egypt,EG,National,2019-04-18,2019-04-18,,Bitly,,NetBlocks
+Egypt,EG,,2019-05-13,,,Egybest (and other piracy sites),"https://identity-mag.com/egybest-got-shut-mean-piracy-egypt/, https://cloudflare.egyptindependent.com/egybest-shuts-down-amidst-purge-of-piracy-websites/, https://www.reddit.com/r/Egypt/comments/boi9xp/egypt_blocks_egybest_followed_by_a_domain_change/, https://www.reddit.com/r/Egypt/comments/bojn0i/egypt_censors_all_freeunofficual_streaming/",CenAlerttialBlockAlert
+Egypt,EG,National,2019-09-22,2019-09-23,"Protests, protests","Facebook, Twitter, WhatsApp, Instagram, Skype, Facebook Messenger, Facebook image CDN servers, BBC News, Twitter, Skype, Blocking BBC and Alhurra news media websites coinciding with protests","https://netblocks.org/reports/facebook-messenger-social-media-and-news-sites-disrupted-in-egypt-amid-protests-eA1Jd7Bp, https://www.vice.com/en_us/article/pa73nv/sisi-is-already-trying-to-crush-those-anti-government-protests-in-egypt, https://www.top10vpn.com/assets/2020/01/Top10VPN.com-Cost-of-Internet-Shutdowns-2019-Supporting-Data.pdf, https://pulse.internetsociety.org/shutdowns/shutdown-178","OONI, Access Now, NetBlocks, Pulse"
+Egypt,EG,,2020-03-22,,COVID-19,"COVID-19 restrictions entered into effect. The pandemic raised global demand for VPNs, both for remote work and for accessing geo-restricted content.",https://www.top10vpn.com/research/vpn-demand-statistics-2020/#vpn-demand-by-region,Other
+Egypt,EG,National,2020-10-22,2020-10-23,"Unknown, no_cause",Telegram,"https://masaar.net/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AC%D8%A8-%D8%AA%D9%84%D8%AC%D8%B1%D8%A7%D9%85/, https://pulse.internetsociety.org/shutdowns/egypt","Pulse, Access Now"
+Egypt,EG,National,2023-06-01,,,Proton services,,OONI

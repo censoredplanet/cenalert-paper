@@ -1,0 +1,6 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Zimbabwe,ZW,Harare,2016-07-06,2016-07-06,Protests,Social media,https://www.nytimes.com/2016/10/03/world/africa/zimbabwe-robert-mugabe-whatsapp.html?_r=2,Access Now
+Zimbabwe,ZW,Regional,2018-08-01,,,Blocking of election watchdog site zimelection.com,https://x.com/zimelection2018/status/1024716868505010177,OONI
+Zimbabwe,ZW,National,2019-01-15,2019-01-24,"Protests, protests","Blocking social media -> Internet shutdown amidst protests, Facebook, Twitter, WhatsApp, Instagram, Telegram, Tinder, Shutdowns + blocking of Facebook, Twitter, WhatsApp, Pinterest, Tinder, etc",https://www.accessnow.org/zimbabwe-orders-a-three-day-country-wide-internet-shutdown/,"OONI, Access Now, NetBlocks"
+Zimbabwe,ZW,,2020-07-30,,Protests,Zimbabwe throttled Internet speeds during planned anti-government protests over corruption and the country’s worsening economic situation.,https://netblocks.org/reports/zimbabwe-internet-disruption-limits-coverage-of-protests-7yNV70yq,NetBlocks
+Zimbabwe,ZW,Harare,2022-02-20,2022-02-20,Protests,"Facebook, Twitter, WhatsApp",https://www.newsday.co.zw/theindependent/slider/article/4091/cyberspace-the-new-zim-political-battlefield,Access Now

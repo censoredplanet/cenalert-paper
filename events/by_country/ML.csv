@@ -1,0 +1,7 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Mali,ML,National,2016-08-08,,,Blocking of social media during violent protests against the detention of a popular radio host,https://qz.com/africa/762082/mali-is-the-latest-african-country-to-impose-a-social-media-blackout,OONI
+Mali,ML,nationwide,2016-08-18,,Protests,"Facebook, Twitter",http://www.rfi.fr/afrique/20160818-twitter-facebook-suspendus-mali-manifestation-ras-bath-bamako,Access Now
+Mali,ML,Nationwide,2018-06-04,,Elections,Social media,https://twitter.com/Internet_SF/status/1003572106263781376,Access Now
+Mali,ML,"Bamako, Timbaktu, and Gao",2018-07-29,2018-08-03,Elections,"Blocking of social media during elections, Social media",https://ooni.torproject.org/post/mali-disruptions-amid-2018-election/,"OONI, Access Now"
+Mali,ML,Regional,2018-08-11,,elections,Social media and messaging services,,NetBlocks
+Mali,ML,Bamako,2020-07-10,2020-07-15,Protests,"Twitter, Facebook, Facebook Messenger, WhatsApp, Facebook, Twitter, WhatsApp, Instagram",https://www.lemonde.fr/afrique/article/2020/07/10/mali-escalade-de-violence-a-bamako-lors-de-la-manifestation-contre-le-president-au-moins-un-mort_6045888_3212.html; https://news.un.org/en/story/2021/07/1095142,"Access Now, NetBlocks"

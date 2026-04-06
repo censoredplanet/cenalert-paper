@@ -1,0 +1,8 @@
+country,country_code,affected_regions,start_date,end_date,cause,affected_services,link,source
+Uganda,UG,nationwide,2016-02-18,2016-02-21,Elections,Social Media,http://www.theatlantic.com/international/archive/2016/02/uganda-election-social-media-shutdown/463407/,Access Now
+Uganda,UG,nationwide,2016-05-11,,Elections,"Blocking social media before presidential inauguration, Facebook, Twitter, YouTube",https://unwantedwitness.or.ug/ugandas-internet-is-blocked-for-the-second-time-in-less-than-3-months/,"OONI, Access Now"
+Uganda,UG,National,2018-07-01,,,"Social media tax came into effect (blocking access unless paid, circumvention tool websites also blocked)",,OONI
+Uganda,UG,National,2018-07-06,,,Pornography blocked,,OONI
+Uganda,UG,Nationwide,2020-11-21,,Protests,Facebook,,Access Now
+Uganda,UG,National,2021-01-09,2021-01-19,,"Blocking of Psiphon, Blocking downloads from Google Play Store",,OONI
+Uganda,UG,"Nationwide, National",2021-01-12,2021-01-19,Elections,"Blocking of Instagram, Facebook, Twitter, and viber.com as well as other social media sites, Twitter, Facebook, WhatsApp, Instagram, Snapchat, Skype, Viber, Google Play Store, some Telegram servers and link shortening services, Facebook, Twitter, WhatsApp, Instagram, Telegram, YouTube, Signal, Facebook, Twitter, WhatsApp, Instagram, Telegram, Youtube, Signal","https://www.nytimes.com/2021/01/13/world/africa/uganda-facebook-ban-elections.html; https://techjaja.com/govt-lifts-social-media-ban-but-there-is-a-catch/, https://transparency.fb.com/data/internet-disruptions/country/UG/, https://www.nytimes.com/2021/01/13/world/africa/uganda-facebook-ban-elections.html; https://techjaja.com/govt-lifts-social-media-ban-but-there-is-a-catch/","OONI, Access Now, NetBlocks"
